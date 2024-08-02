@@ -36,7 +36,7 @@ DijitalimYemek , kullanıcıların çeşitli yemek tariflerine kolayca erişim s
 
 # *SPRINT 1*
 ---
-![Sprint 1](https://github.com/iremcing9/OUA_grup61/blob/main/sprint1.jpg)
+![Sprint 1](https://github.com/iremcing9/OUA_grup61/blob/master/sprint1.jpg)
 - Sprint içi puan değerlendirmesinin 10 olmasına karar verilmiştir.
 - *Puan tamamlama mantığı:* Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve tamamlanan işler için 7 puan tamamlanmıştır. Geri kalan 3 puanlık tamamlanmayan kısım sprint2'ye aktarılmıştır.
 - *Daily Scrum:* Projede herkesin backend ve tasarım kısmında bulunmasına karar verilmiştir.
@@ -58,7 +58,7 @@ DijitalimYemek , kullanıcıların çeşitli yemek tariflerine kolayca erişim s
 
 # *SPRINT 2*
 ---
-![Sprint 2](https://github.com/iremcing9/OUA_grup61/blob/main/sprint2.jpg)
+![Sprint 2](https://github.com/iremcing9/OUA_grup61/blob/master/sprint2.jpg)
 - Sprint içi puan değerlendirmesinin 10 olmasına karar verilmiştir.
 - *Puan tamamlama mantığı:* Proje boyunca tamamlanması gereken backlog puanı 36'dır. Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir. İlk sprintle birlikte toplam puan 17
 - *Daily Scrum:* Haftada 30 dakika discord toplantısı yapıldı.
