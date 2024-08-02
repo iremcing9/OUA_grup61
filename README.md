@@ -1,4 +1,4 @@
-![Logo](https://github.com/iremcing9/OUA_grup61/blob/main/dijitalyemek_logo.jpg?raw=true)
+![Logo](https://github.com/iremcing9/OUA_grup61/blob/master/dijitalyemek_logo.jpg)
 
 #### *TAKIM İSMİ*
 ---
