@@ -75,28 +75,7 @@ class FoodCard extends StatelessWidget {
                     ),
                   ],
                 ),
-                /*Row(
-                  children: [
-                    Icon(Iconsax.star5,
-                        color: Colors.yellow.shade700, size: 20),
-                    const SizedBox(width: 5),
-                    Text(
-                      "${food.rate}/5",
-                      style: TextStyle(
-                        fontSize: 12,
-                        color: Colors.black,
-                      ),
-                    ),
-                    const SizedBox(width: 5),
-                    /*Text(
-                      "(${food.reviews} Reviews)",
-                      style: TextStyle(
-                        fontSize: 12,
-                        color: Colors.black.shade400,
-                      ),
-                    )*/
-                  ],
-                )*/
+
               ],
             ),
             Positioned(

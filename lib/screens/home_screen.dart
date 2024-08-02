@@ -33,7 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 const HomeAppbar(),
                 const SizedBox(height: 20),
               //  const HomeSearchBar(),
-               // const SizedBox(height: 20),
+                const SizedBox(height: 20),
                 Container(
                   width: double.infinity,
                   height: 170,

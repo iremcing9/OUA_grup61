@@ -189,7 +189,64 @@ class _RecipeScreenState extends State<RecipeScreen> {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      // Buraya malzemeler eklenebilir
+                      Text(
+                        "Hamuru için:",
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 10),
+                      Text(
+                        "• 2 kase ince bulgur\n"
+                            "• 2 yemek kaşığı irmik\n"
+                            "• 250 gram yağsız iki kez çekilmiş kıyma\n"
+                            "• Tuz\n"
+                            "• 1 adet yumurta\n"
+                            "• Aldığı kadar su",
+                        style: TextStyle(
+                          fontSize: 14,
+                          color: Colors.grey.shade600,
+                        ),
+                      ),
+                      const SizedBox(height: 20),
+                      Text(
+                        "İç harcı için:",
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 10),
+                      Text(
+                        "• 3 adet orta boy kuru soğan\n"
+                            "• 250 gram yarım yağlı kıyma\n"
+                            "• 3 yemek kaşığı tereyağı veya margarin\n"
+                            "• Tuz, pul biber, karabiber",
+                        style: TextStyle(
+                          fontSize: 14,
+                          color: Colors.grey.shade600,
+                        ),
+                      ),
+                      const SizedBox(height: 20),
+                      Text(
+                        "Sosu için:",
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 10),
+                      Text(
+                        "• 1 adet büyük boy kuru soğan\n"
+                            "• 1 yemek kaşığı dolusu salça\n"
+                            "• 1 su bardağı haşlanmış nohut\n"
+                            "• Tuz, pul biber, karabiber",
+                        style: TextStyle(
+                          fontSize: 14,
+                          color: Colors.grey.shade600,
+                        ),
+                      ),
                     ],
                   ),
                   const SizedBox(height: 20),
