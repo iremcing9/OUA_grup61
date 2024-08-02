@@ -1,36 +1,3 @@
-import 'package:flutter/material.dart';
-import 'package:iconsax/iconsax.dart';
-
-class HomeAppbar extends StatelessWidget {
-  const HomeAppbar({
-    super.key,
-  });
-
-  @override
-  Widget build(BuildContext context) {
-    return Row(
-      children: [
-        /*const Text(
-          "Bugün Ne Pişirsem",
-          style: TextStyle(
-            fontSize: 32,
-            fontWeight: FontWeight.bold,
-            height: 1,
-          ),
-        ),*/
-        const Spacer(),
-        /*IconButton(
-          onPressed: () {},
-          style: IconButton.styleFrom(
-            shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(15),
-            ),
-            backgroundColor: Colors.white,
-            fixedSize: const Size(55, 55),
-          ),
-          icon: const Icon(Iconsax.notification),
-        ),*/
-      ],
-    );
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b275d9f97b27aad70fd03187ba831dcbe54bf90dc6de30999d14f5a366fe1c9
+size 278
